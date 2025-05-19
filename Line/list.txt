@@ -1,13 +1,13 @@
-*.crs-event.line.me
-*.legy.line-apps.com
-*.ad.line-scdn.net
-*.official-blog-tw.line.me
-*.jp-col-tcp.nelo.linecorp.com
-*.uts-front.line-apps.com
-*.a.line.me
-*.legy-backup.line-apps.com
-*.lap-click.tr.line.me
+crs-event.line.me
+legy.line-apps.com
+ad.line-scdn.net
+official-blog-tw.line.me
+jp-col-tcp.nelo.linecorp.com
+uts-front.line-apps.com
+a.line.me
+legy-backup.line-apps.com
+lap-click.tr.line.me
 
 # Not sure if part of LINE
-*.ly.my.sentry.io
-*.firebaselogging-pa.googleapis.com
+ly.my.sentry.io
+firebaselogging-pa.googleapis.com
